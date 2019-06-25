@@ -10,7 +10,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
                 - [ ] [`Blocks`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/RESOURCES.md)
                     - [ ] [Memory Management](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/Memory_Management/RESOURCES.md)
-                - [ ] [KVC](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVC/RESOURCES.md)
+                - [x] [KVC](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVC/RESOURCES.md)
                 - [ ] [KVO](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVO/RESOURCES.md)
                 - [ ] [Toll-free bridging](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Toll-free_bridging/RESOURCES.md)
                 - [ ] [`Runtime`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/RESOURCES.md)
